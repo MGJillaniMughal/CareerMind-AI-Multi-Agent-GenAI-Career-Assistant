@@ -190,6 +190,6 @@ If this project helped you, please give it a ⭐ star!
 
 
 <div align="center">
-  <strong>Built with ❤️ by Muhammad Ghulam Jillani</strong><br>
+  <strong>Built with ❤️ by Muhammad Ghulam Jillani (Jillani SofTech)</strong><br>
   <em>Revolutionizing careers through AI innovation</em>
 </div>
