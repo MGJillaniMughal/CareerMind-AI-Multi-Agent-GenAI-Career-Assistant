@@ -188,10 +188,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If this project helped you, please give it a ⭐ star!
 
----
 
 <div align="center">
   <strong>Built with ❤️ by Muhammad Ghulam Jillani</strong><br>
   <em>Revolutionizing careers through AI innovation</em>
 </div>
-```
